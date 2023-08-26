@@ -124,6 +124,7 @@ body{
     padding: 10px;
     margin:10px;
     font-size: 20px;
+    
 
 }
 .globe{
@@ -132,4 +133,18 @@ body{
 }
 .profile{
     width:35px;height:35px;
+}
+.map1{
+    width:40px;
+    display:flex;
+}
+.map-img{
+    width:22px;
+    height:22px;
+    color:white;
+}
+.flex{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
 }
